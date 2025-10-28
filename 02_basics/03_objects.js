@@ -1,5 +1,5 @@
 // singleton
-// object literals
+// object literals-
 
 const jsuser ={
     name: "lucky",
